@@ -1,4 +1,4 @@
-# ELEGOO Smart Robot Car Kit V4.0 – Modified Main Code
+# ELEGOO Smart Robot Car Kit V4.0 – Connect to Home Network
 This is the main code for the ELEGOO Smart Robot Car Kit V4.0, modified to connect directly to your home Wi-Fi network instead of creating its own Wi-Fi access point.
 
 What's Changed
