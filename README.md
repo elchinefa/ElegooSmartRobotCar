@@ -12,11 +12,11 @@ ESP32_CameraServer_AP_20210107/ESP32_CameraServer_AP_20210107.ino
 
 Update the following lines with your network details:
 
-
+```
 const char* ssid = "ChangeMe";
 const char* password = "changeme";
 IPAddress local_IP(192, 168, 0, 42); // Set to your preferred static IP
 IPAddress gateway(192, 168, 0, 1);   // Set to your Gateaway
 IPAddress subnet(255, 255, 255, 0);  // Set to your Subnetmask
 You can also set the new IP in the mobile app settings to match the static IP above.
-
+```
